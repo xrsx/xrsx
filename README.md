@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm XRSX/h2>
+### Hi there 👋<h2> I'm Xrsx </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science and Engineering at HarvardX.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; AdobeXD | Photoshop | Illustrator | 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
@@ -38,9 +38,8 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Selenium | 
 
-<hr>
 
 
 
