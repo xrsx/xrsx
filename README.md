@@ -2,11 +2,11 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3>⭐ &nbsp; About Me </h3>
+<h3>✨ &nbsp; About Me </h3>
 
 
 
--  😃 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+-  🌝 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at HarvardX.
 
