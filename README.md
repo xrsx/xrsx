@@ -6,7 +6,7 @@
 
 
 
--  :smiley: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+-  :smiley: 😃 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at HarvardX.
 
